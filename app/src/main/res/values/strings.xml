@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">5.Android Custom Toast Example</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="Toast">Javatpoint Custom Toast</string>
+</resources>
